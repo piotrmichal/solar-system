@@ -2,7 +2,7 @@ $(function() {
 	var $infoBox = $('aside div');
 	var $sun = $('#sun');
 	var $solarSystem = $('#solarSystem').html();
-	var $home = $('header');
+	var $home = $('h1');
 	var $orbits = $('.orbits');
 	var $planets = $('nav li');
 	var $name = $('main h3');
